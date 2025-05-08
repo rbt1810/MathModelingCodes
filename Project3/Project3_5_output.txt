@@ -1,0 +1,260 @@
+- On time 2025-04-21 07:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 体育馆. This will add 3.0 bikes to the car. And it takes 5.398 minutes.
+ - Should go to 计算机学院. This will add 2.0 bikes to the car. And it takes 4.086 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 北门. This takes 3.0432 minutes, and 北门 remains 4.0 bikes.
+ - Should go to 北门. This will add 4.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Should go to 一食堂. This will add 8.0 bikes to the car. And it takes 9.087 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 7.353 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学2楼. This takes 7.4399999999999995 minutes, and 教学2楼 remains 4.0 bikes.
+ - Should go to 教学2楼. This will add 4.0 bikes to the car. And it takes 5.848 minutes.
+ - Should go to 二食堂. This will add 6.0 bikes to the car. And it takes 8.198 minutes.
+ - Should go to 教学4楼. This will add 4.0 bikes to the car. And it takes 6.059 minutes.
+ - Should go to 三食堂. This will add 5.0 bikes to the car. And it takes 6.298 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 彩虹球场. This takes 12.148800000000001 minutes, and 彩虹球场 remains 3.0 bikes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 6.695 minutes.
+ - Should go to 南门. This will add 1.0 bikes to the car. And it takes 2.8120000000000003 minutes.
+ - This path takes 114.19099999999999 minutes to go.
+- On time 2025-04-21 08:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 北门. This will add 2.0 bikes to the car. And it takes 4.554 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 计算机学院. This takes 4.992 minutes, and 计算机学院 remains 1.0 bikes.
+ - Should go to 计算机学院. This will add 1.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.939 minutes.
+ - Should go to 体育馆. This will add 2.0 bikes to the car. And it takes 4.9399999999999995 minutes.
+ - Should go to 一食堂. This will add 2.0 bikes to the car. And it takes 4.75 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Should go to 教学2楼. This will add 6.0 bikes to the car. And it takes 9.65 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学4楼. This takes 7.828800000000001 minutes, and 教学4楼 remains 7.0 bikes.
+ - Should go to 教学4楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 6.059 minutes.
+ - Should go to 三食堂. This will add 4.0 bikes to the car. And it takes 6.748 minutes.
+ - Should go to 南门. This will add 3.0 bikes to the car. And it takes 4.135 minutes.
+ - This path takes 98.29080000000002 minutes to go.
+- On time 2025-04-21 09:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 计算机学院. This will add 4.0 bikes to the car. And it takes 5.308 minutes.
+ - Should go to 北门. This will add 4.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 体育馆. This will add 3.0 bikes to the car. And it takes 4.6579999999999995 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 菊苑1栋. This takes 7.3824 minutes, and 菊苑1栋 remains 2.0 bikes.
+ - Should go to 菊苑1栋. This will add 2.0 bikes to the car. And it takes 5.398 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 一食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 三食堂. This will add 2.0 bikes to the car. And it takes 3.339 minutes.
+ - Should go to 教学2楼. This will add 7.0 bikes to the car. And it takes 8.943999999999999 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学4楼. This takes 7.828800000000001 minutes, and 教学4楼 remains 2.0 bikes.
+ - Should go to 教学4楼. This will add 2.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 6.059 minutes.
+ - Should go to 南门. This will add 4.0 bikes to the car. And it takes 7.883 minutes.
+ - Should go to 彩虹球场. This will add 5.0 bikes to the car. And it takes 6.634 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - This path takes 99.69019999999999 minutes to go.
+- On time 2025-04-21 10:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 计算机学院. This will add 4.0 bikes to the car. And it takes 5.308 minutes.
+ - Should go to 北门. This will add 4.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 体育馆. This will add 3.0 bikes to the car. And it takes 4.6579999999999995 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 菊苑1栋. This takes 7.3824 minutes, and 菊苑1栋 remains 2.0 bikes.
+ - Should go to 菊苑1栋. This will add 2.0 bikes to the car. And it takes 5.398 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.464 minutes.
+ - Should go to 一食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 三食堂. This will add 2.0 bikes to the car. And it takes 3.339 minutes.
+ - Should go to 教学2楼. This will add 7.0 bikes to the car. And it takes 8.943999999999999 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学4楼. This takes 7.828800000000001 minutes, and 教学4楼 remains 2.0 bikes.
+ - Should go to 教学4楼. This will add 2.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 6.059 minutes.
+ - Should go to 南门. This will add 4.0 bikes to the car. And it takes 7.883 minutes.
+ - Should go to 彩虹球场. This will add 5.0 bikes to the car. And it takes 6.634 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - This path takes 100.01619999999998 minutes to go.
+- On time 2025-04-21 11:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 计算机学院. This will add 4.0 bikes to the car. And it takes 5.308 minutes.
+ - Should go to 北门. This will add 4.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 体育馆. This takes 5.5248 minutes, and 体育馆 remains 2.0 bikes.
+ - Should go to 体育馆. This will add 2.0 bikes to the car. And it takes 4.9399999999999995 minutes.
+ - Should go to 菊苑1栋. This will add 3.0 bikes to the car. And it takes 5.398 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.464 minutes.
+ - Should go to 一食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 三食堂. This will add 2.0 bikes to the car. And it takes 3.339 minutes.
+ - Should go to 教学2楼. This will add 7.0 bikes to the car. And it takes 8.943999999999999 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学4楼. This takes 7.828800000000001 minutes, and 教学4楼 remains 5.0 bikes.
+ - Should go to 教学4楼. This will add 5.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 6.059 minutes.
+ - Should go to 南门. This will add 4.0 bikes to the car. And it takes 7.883 minutes.
+ - Should go to 彩虹球场. This will add 5.0 bikes to the car. And it takes 6.634 minutes.
+ - This path takes 98.44059999999999 minutes to go.
+- On time 2025-04-21 12:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 计算机学院. This will add 4.0 bikes to the car. And it takes 6.042 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 工程中心. This takes 2.5728 minutes, and 工程中心 remains 3.0 bikes.
+ - Should go to 工程中心. This will add 3.0 bikes to the car. And it takes 5.939 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 5.476 minutes.
+ - Should go to 教学2楼. This will add 4.0 bikes to the car. And it takes 5.848 minutes.
+ - Should go to 教学4楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 一食堂. This will add 2.0 bikes to the car. And it takes 4.261 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 二食堂. This takes 10.310400000000001 minutes, and 二食堂 remains 2.0 bikes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Should go to 体育馆. This will add 6.0 bikes to the car. And it takes 10.358 minutes.
+ - Should go to 北门. This will add 3.0 bikes to the car. And it takes 4.6579999999999995 minutes.
+ - Should go to 三食堂. This will add 2.0 bikes to the car. And it takes 6.267 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 南门. This takes 11.2896 minutes, and 南门 remains 2.0 bikes.
+ - Should go to 南门. This will add 2.0 bikes to the car. And it takes 9.079 minutes.
+ - This path takes 115.41580000000002 minutes to go.
+- On time 2025-04-21 13:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 计算机学院. This will add 4.0 bikes to the car. And it takes 6.042 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 工程中心. This takes 2.5728 minutes, and 工程中心 remains 3.0 bikes.
+ - Should go to 工程中心. This will add 3.0 bikes to the car. And it takes 5.939 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 5.476 minutes.
+ - Should go to 教学2楼. This will add 4.0 bikes to the car. And it takes 5.848 minutes.
+ - Should go to 教学4楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 三食堂. This takes 9.3888 minutes, and 三食堂 remains 3.0 bikes.
+ - Should go to 三食堂. This will add 3.0 bikes to the car. And it takes 6.298 minutes.
+ - Should go to 二食堂. This will add 3.0 bikes to the car. And it takes 5.45 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Should go to 体育馆. This will add 6.0 bikes to the car. And it takes 10.358 minutes.
+ - Should go to 北门. This will add 3.0 bikes to the car. And it takes 4.6579999999999995 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 一食堂. This takes 8.088000000000001 minutes, and 一食堂 remains 1.0 bikes.
+ - Should go to 一食堂. This will add 1.0 bikes to the car. And it takes 5.906000000000001 minutes.
+ - Should go to 南门. This will add 3.0 bikes to the car. And it takes 5.474 minutes.
+ - This path takes 111.67560000000002 minutes to go.
+- On time 2025-04-21 14:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 计算机学院. This will add 4.0 bikes to the car. And it takes 6.042 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 北门. This takes 3.0432 minutes, and 北门 remains 3.0 bikes.
+ - Should go to 北门. This will add 3.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Should go to 体育馆. This will add 2.0 bikes to the car. And it takes 4.9399999999999995 minutes.
+ - Should go to 一食堂. This will add 2.0 bikes to the car. And it takes 4.75 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 7.353 minutes.
+ - Should go to 教学2楼. This will add 4.0 bikes to the car. And it takes 5.848 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学4楼. This takes 7.828800000000001 minutes, and 教学4楼 remains 6.0 bikes.
+ - Should go to 教学4楼. This will add 6.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 三食堂. This will add 5.0 bikes to the car. And it takes 6.298 minutes.
+ - Should go to 二食堂. This will add 3.0 bikes to the car. And it takes 5.45 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 南门. This takes 11.2896 minutes, and 南门 remains 3.0 bikes.
+ - Should go to 南门. This will add 3.0 bikes to the car. And it takes 9.079 minutes.
+ - This path takes 113.13260000000002 minutes to go.
+- On time 2025-04-21 15:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 计算机学院. This will add 4.0 bikes to the car. And it takes 6.042 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 北门. This takes 3.0432 minutes, and 北门 remains 3.0 bikes.
+ - Should go to 北门. This will add 3.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Should go to 体育馆. This will add 2.0 bikes to the car. And it takes 4.9399999999999995 minutes.
+ - Should go to 一食堂. This will add 2.0 bikes to the car. And it takes 4.75 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学2楼. This takes 7.4399999999999995 minutes, and 教学2楼 remains 2.0 bikes.
+ - Should go to 教学2楼. This will add 2.0 bikes to the car. And it takes 9.65 minutes.
+ - Should go to 教学4楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 三食堂. This will add 5.0 bikes to the car. And it takes 6.298 minutes.
+ - Should go to 东门. This will add 4.0 bikes to the car. And it takes 6.748 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 南门. This takes 11.2896 minutes, and 南门 remains 2.0 bikes.
+ - Should go to 南门. This will add 2.0 bikes to the car. And it takes 7.883 minutes.
+ - This path takes 112.4328 minutes to go.
+- On time 2025-04-21 16:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 计算机学院. This will add 4.0 bikes to the car. And it takes 6.042 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 北门. This takes 3.0432 minutes, and 北门 remains 3.0 bikes.
+ - Should go to 北门. This will add 3.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Should go to 体育馆. This will add 2.0 bikes to the car. And it takes 4.9399999999999995 minutes.
+ - Should go to 一食堂. This will add 2.0 bikes to the car. And it takes 4.75 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学2楼. This takes 7.4399999999999995 minutes, and 教学2楼 remains 2.0 bikes.
+ - Should go to 教学2楼. This will add 2.0 bikes to the car. And it takes 9.65 minutes.
+ - Should go to 教学4楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 三食堂. This will add 5.0 bikes to the car. And it takes 6.298 minutes.
+ - Should go to 南门. This will add 3.0 bikes to the car. And it takes 4.135 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 东门. This takes 5.5248 minutes, and 东门 remains 1.0 bikes.
+ - Should go to 东门. This will add 1.0 bikes to the car. And it takes 7.883 minutes.
+ - This path takes 104.055 minutes to go.
+- On time 2025-04-21 17:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 体育馆. This will add 3.0 bikes to the car. And it takes 5.398 minutes.
+ - Should go to 计算机学院. This will add 2.0 bikes to the car. And it takes 4.086 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 工程中心. This takes 2.5728 minutes, and 工程中心 remains 4.0 bikes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.939 minutes.
+ - Should go to 北门. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Should go to 一食堂. This will add 3.0 bikes to the car. And it takes 5.906000000000001 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学2楼. This takes 7.4399999999999995 minutes, and 教学2楼 remains 2.0 bikes.
+ - Should go to 教学2楼. This will add 2.0 bikes to the car. And it takes 9.65 minutes.
+ - Should go to 教学4楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 三食堂. This will add 5.0 bikes to the car. And it takes 6.298 minutes.
+ - Should go to 南门. This will add 3.0 bikes to the car. And it takes 4.135 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 东门. This takes 5.5248 minutes, and 东门 remains 1.0 bikes.
+ - Should go to 东门. This will add 1.0 bikes to the car. And it takes 7.883 minutes.
+ - This path takes 103.80160000000001 minutes to go.
+- On time 2025-04-21 18:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 体育馆. This will add 3.0 bikes to the car. And it takes 5.398 minutes.
+ - Should go to 计算机学院. This will add 2.0 bikes to the car. And it takes 4.086 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 工程中心. This takes 2.5728 minutes, and 工程中心 remains 4.0 bikes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.939 minutes.
+ - Should go to 北门. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Should go to 一食堂. This will add 3.0 bikes to the car. And it takes 5.906000000000001 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.138 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 教学2楼. This takes 7.4399999999999995 minutes, and 教学2楼 remains 2.0 bikes.
+ - Should go to 教学2楼. This will add 2.0 bikes to the car. And it takes 9.65 minutes.
+ - Should go to 教学4楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Should go to 三食堂. This will add 5.0 bikes to the car. And it takes 6.298 minutes.
+ - Should go to 南门. This will add 3.0 bikes to the car. And it takes 4.135 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 东门. This takes 5.5248 minutes, and 东门 remains 1.0 bikes.
+ - Should go to 东门. This will add 1.0 bikes to the car. And it takes 7.883 minutes.
+ - This path takes 103.80160000000001 minutes to go.
+- On time 2025-04-21 19:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.464 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 一食堂. This takes 8.088000000000001 minutes, and 一食堂 remains 5.0 bikes.
+ - Should go to 一食堂. This will add 5.0 bikes to the car. And it takes 6.634 minutes.
+ - Should go to 三食堂. This will add 2.0 bikes to the car. And it takes 3.339 minutes.
+ - Should go to 教学4楼. This will add 5.0 bikes to the car. And it takes 6.298 minutes.
+ - Should go to 教学2楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 东门. This takes 5.5248 minutes, and 东门 remains 3.0 bikes.
+ - Should go to 东门. This will add 3.0 bikes to the car. And it takes 5.848 minutes.
+ - Should go to 体育馆. This will add 3.0 bikes to the car. And it takes 7.416 minutes.
+ - Should go to 计算机学院. This will add 2.0 bikes to the car. And it takes 4.086 minutes.
+ - Should go to 北门. This will add 4.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Should go to 南门. This will add 1.0 bikes to the car. And it takes 5.358 minutes.
+ - This path takes 97.26679999999999 minutes to go.
+- On time 2025-04-21 20:00:00
+ - Should go to 网球场. This will add 8.0 bikes to the car. And it takes 10.957 minutes.
+ - Should go to 菊苑1栋. This will add 7.0 bikes to the car. And it takes 7.734 minutes.
+ - Should go to 二食堂. This will add 2.0 bikes to the car. And it takes 3.464 minutes.
+ - Should go to 彩虹球场. This will add 3.0 bikes to the car. And it takes 3.497 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 一食堂. This takes 8.088000000000001 minutes, and 一食堂 remains 5.0 bikes.
+ - Should go to 一食堂. This will add 5.0 bikes to the car. And it takes 6.634 minutes.
+ - Should go to 三食堂. This will add 2.0 bikes to the car. And it takes 3.339 minutes.
+ - Should go to 教学4楼. This will add 5.0 bikes to the car. And it takes 6.298 minutes.
+ - Should go to 教学2楼. This will add 7.0 bikes to the car. And it takes 7.989 minutes.
+ - Full! Should return to 仓库 to put bikes and go back to 东门. This takes 5.5248 minutes, and 东门 remains 3.0 bikes.
+ - Should go to 东门. This will add 3.0 bikes to the car. And it takes 5.848 minutes.
+ - Should go to 体育馆. This will add 3.0 bikes to the car. And it takes 7.416 minutes.
+ - Should go to 计算机学院. This will add 2.0 bikes to the car. And it takes 4.086 minutes.
+ - Should go to 北门. This will add 4.0 bikes to the car. And it takes 5.38 minutes.
+ - Should go to 工程中心. This will add 4.0 bikes to the car. And it takes 5.654 minutes.
+ - Should go to 南门. This will add 1.0 bikes to the car. And it takes 5.358 minutes.
+ - This path takes 97.26679999999999 minutes to go.
